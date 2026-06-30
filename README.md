@@ -14,7 +14,7 @@
 
 **qq群：704947146**
 <p align="center">
-<img src="https://github.com/bykeywyc/haitunquant/blob/main/imgs/QQ1.png" alt="qq群" width="220" height="300">
+<img src="https://github.com/bykeywyc/haitunquant/blob/main/imgs/QQ1.jpg" alt="qq群" width="220" height="300">
 </p>  
 
 
